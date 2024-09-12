@@ -1,0 +1,7 @@
+C:\Users\A-10\source\repos\Practica\Console 06\bin\Debug\Console 06.exe.config
+C:\Users\A-10\source\repos\Practica\Console 06\bin\Debug\Console 06.exe
+C:\Users\A-10\source\repos\Practica\Console 06\bin\Debug\Console 06.pdb
+C:\Users\A-10\source\repos\Practica\Console 06\obj\Debug\Ejercicio 06.csproj.AssemblyReference.cache
+C:\Users\A-10\source\repos\Practica\Console 06\obj\Debug\Ejercicio 06.csproj.CoreCompileInputs.cache
+C:\Users\A-10\source\repos\Practica\Console 06\obj\Debug\Console 06.exe
+C:\Users\A-10\source\repos\Practica\Console 06\obj\Debug\Console 06.pdb
